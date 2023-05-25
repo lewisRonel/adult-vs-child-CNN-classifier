@@ -8,6 +8,7 @@ The images have a resolution of 370x320 pixels in RGB color model.
 Both the folders contain 2 classes:
 Adults
 Children
+You can download the datset [here]('https://www.kaggle.com/datasets/die9origephit/children-vs-adults-images/download?datasetVersionNumber=1')
 
 # Data Source
 Collection methodology
@@ -15,4 +16,4 @@ The dataset was obtained downloading images from internet websites such as https
 The obtained images were randomly shuffled and resized so that all the images had a resolution of 370x320 pixels.
 Then, they were split into train and test datasets and saved.
 
-# Credit to: [Moris lee](http://www.morris-lee.com/) for the analysis and [Iron](https://www.kaggle.com/die9origephit) for the dataset found on Kaggle 
+# Credit to: [Moris lee](http://www.morris-lee.com/) for the analysis and [Iron]('https://www.kaggle.com/die9origephit') for the dataset found on Kaggle 
